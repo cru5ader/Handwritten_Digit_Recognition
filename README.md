@@ -1,2 +1,2 @@
-# Spam-Classifer
-Classifying whether an email is spam or not using Naive-Bayes-Classifier implemented from scratch
+# Handwritten_Digit_Recognition
+Implemented K-Nearest Neighbor(K-NN) algorithm in python on MNIST dataset (a database of several handwritten digits ) to recognize any handwritten digit.
